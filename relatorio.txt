@@ -1,0 +1,13 @@
+Clientes Cadastrados:
+ID Cliente = 4859
+nome do cliente = joao silva
+data de nascimento = 01:05:2001
+Viagens realizadas = 2
+
+Alimentos Cadastrados:
+ID alimento = 3
+nome do alimento = carne
+Valor calorico = 100.00 Kcal
+Marca = 
+Preco do alimento = R$50.00 
+
